@@ -19,9 +19,11 @@
   <img align="center" alt="Husani-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Husani-vue" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/vue-colored.svg">
   <img align="center" alt="Husani-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/wordpress-colored.svg">
-  <img align="right" alt="Husani-pic" width="300" style="border-radius:50px;" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/img/dance.gif">
+  <img align="right" alt="Husani-pic" width="250" style="border-radius:50px;" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/img/dance.gif">
 </div>
- 
+
+<br>
+
 <div style="margin-top: 32px"> 
   <a href="https://criativi.me" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
