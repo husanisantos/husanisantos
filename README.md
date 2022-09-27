@@ -7,18 +7,18 @@
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Husani-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Husani-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Husani-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Husani-Sass" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/sass-colored.svg">
-  <img align="center" alt="Husani-php" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/php-colored.svg">
-  <img align="center" alt="Husani-laravel" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/laravel-colored.svg">
-  <img align="center" alt="Husani-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Husani-Java" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/java-colored.svg">
-  <img align="center" alt="Husani-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Husani-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Husani-vue" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/vue-colored.svg">
-  <img align="center" alt="Husani-wordpress" height="30" width="40" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/wordpress-colored.svg">
+  <img align="center" alt="Husani-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Husani-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Husani-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Husani-Sass" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/sass-colored.svg">
+  <img align="center" alt="Husani-php" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/php-colored.svg">
+  <img align="center" alt="Husani-laravel" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/laravel-colored.svg">
+  <img align="center" alt="Husani-Csharp" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Husani-Java" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/java-colored.svg">
+  <img align="center" alt="Husani-dart" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Husani-flutter" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Husani-vue" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/vue-colored.svg">
+  <img align="center" alt="Husani-wordpress" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/wordpress-colored.svg">
   <img align="right" alt="Husani-pic" width="250" style="border-radius:50px;" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/img/dance.gif">
 </div>
 
