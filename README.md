@@ -13,7 +13,7 @@
   <img align="center" alt="Husani-Sass" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/sass-colored.svg">
   <img align="center" alt="Husani-php" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/php-colored.svg">
   <img align="center" alt="Husani-laravel" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/laravel-colored.svg">
-  <img align="center" alt="Husani-Csharp" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Husani-Csharp" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Husani-Java" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/java-colored.svg">
   <img align="center" alt="Husani-dart" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Husani-flutter" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
