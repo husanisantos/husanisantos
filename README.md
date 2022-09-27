@@ -1,4 +1,4 @@
-## Olá, sinta-se em casa! Sou Husani Santos, veja aqui o que já em mais de 10 anos!
+## Olá, sou Husani Santos, desenvolvedor e universitário do IFSP! Já seguiu e deixou estrela?
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husanisantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
