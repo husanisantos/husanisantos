@@ -7,18 +7,18 @@
 
 <div style="display: inline_block">
   <br>
-  <img align="center" alt="Husani-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Husani-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Husani-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Husani-Sass" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/sass-colored.svg">
-  <img align="center" alt="Husani-php" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/php-colored.svg">
-  <img align="center" alt="Husani-laravel" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/laravel-colored.svg">
-  <img align="center" alt="Husani-Csharp" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Husani-Java" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/java-colored.svg">
-  <img align="center" alt="Husani-dart" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Husani-flutter" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Husani-vue" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/vue-colored.svg">
-  <img align="center" alt="Husani-wordpress" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/wordpress-colored.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-CSS" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-Js" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-Sass" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/sass-colored.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-php" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/php-colored.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-laravel" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/laravel-colored.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-Csharp" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-Java" width="50" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/java-colored.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-dart" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-flutter" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-vue" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/vue-colored.svg">
+  <img style="margin-right:2px;" align="center" alt="Husani-wordpress" width="35" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/svg/wordpress-colored.svg">
   <img align="right" alt="Husani-pic" width="250" style="border-radius:50px;" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/img/dance.gif">
 </div>
 
