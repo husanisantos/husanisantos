@@ -1,4 +1,4 @@
-## Olá, sinta-se em casa! Sou Husani Santos (Kamauleao), Desenvolvedor e Skatista e aluno do IF!
+## Olá, sinta-se em casa! Sou Husani Santos e está na hora de me conhecer!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husanisantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
