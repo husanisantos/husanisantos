@@ -22,7 +22,7 @@
   <img align="right" alt="Husani-pic" width="300" style="border-radius:50px;" src="https://raw.githubusercontent.com/husanisantos/husanisantos/main/img/dance.gif">
 </div>
  
-<div> 
+<div style="margin-top: 32px"> 
   <a href="https://criativi.me" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank">
   </a>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
  <a href="https://www.behance.net/husanisantos" target="_blank">
- <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
  </a> 
   <a href = "mailto:husanisoantos@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
