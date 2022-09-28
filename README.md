@@ -1,4 +1,4 @@
-## Olá, sou Husani, desenvolvedor e aluno de BSI no IFSP! Já seguiu e deixou estrela?
+## Olá, sou Husani, desenvolvedor e aluno de BSI no IFSP! Já segue!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=husanisantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
